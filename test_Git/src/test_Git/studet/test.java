@@ -31,7 +31,7 @@ public class test {
 		int x = 1;
 		
 		x = x * 2 + 1;
-		System.out.println("hahha"+x);
+		System.out.println("hahha"+"哈哈的话我真的好开新啊、");
 	}
 
 }
