@@ -1,27 +1,27 @@
 /**  
 * @Title: test.java
 * @Package test_Git.studet
-* @Description: TODO(ÓÃÒ»¾ä»°ÃèÊö¸ÃÎÄ¼ş×öÊ²Ã´)
+* @Description: TODO(ç”¨ä¸€å¥è¯æè¿°è¯¥æ–‡ä»¶åšä»€ä¹ˆ)
 * @author A18ccms A18ccms_gmail_com  
-* @date 2017Äê2ÔÂ28ÈÕ ÏÂÎç5:55:43
+* @date 2017å¹´2æœˆ28æ—¥ ä¸‹åˆ5:55:43
 * @version V1.0  
 */
 package test_Git.studet;
 
 /**
 * @ClassName: test
-* @Description: TODO(ÕâÀïÓÃÒ»¾ä»°ÃèÊöÕâ¸öÀàµÄ×÷ÓÃ)
+* @Description: TODO(è¿™é‡Œç”¨ä¸€å¥è¯æè¿°è¿™ä¸ªç±»çš„ä½œç”¨)
 * @author A18ccms a18ccms_gmail_com
-* @date 2017Äê2ÔÂ28ÈÕ ÏÂÎç5:55:43
+* @date 2017å¹´2æœˆ28æ—¥ ä¸‹åˆ5:55:43
 *
 */
 public class test {
 
 	/**
 	* @Title: main
-	* @Description: TODO(ÕâÀïÓÃÒ»¾ä»°ÃèÊöÕâ¸ö·½·¨µÄ×÷ÓÃ)
-	* @param @param args    Éè¶¨ÎÄ¼ş
-	* @return void    ·µ»ØÀàĞÍ
+	* @Description: TODO(è¿™é‡Œç”¨ä¸€å¥è¯æè¿°è¿™ä¸ªæ–¹æ³•çš„ä½œç”¨)
+	* @param @param args    è®¾å®šæ–‡ä»¶
+	* @return void    è¿”å›ç±»å‹
 	* @throws
 	*/
 	public static void main(String[] args) {
@@ -31,7 +31,7 @@ public class test {
 		int x = 1;
 		
 		x = x * 2 + 1;
-		System.out.println("hahha"+x);
+		System.out.println("hahha"+x+"æŠ¤èˆªå’‹å¼„çš„");
 	}
 
 }
